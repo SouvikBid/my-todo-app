@@ -1,0 +1,4 @@
+move
+watch
+play
+study
